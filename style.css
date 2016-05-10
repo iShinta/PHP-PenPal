@@ -1,0 +1,50 @@
+/* General */
+
+body{
+  background-color: lightblue;
+}
+
+p{
+  font-family: "Arial";
+}
+
+/* Classes */
+
+.f_inline_l{
+  float:left;
+  margin:5px;
+}
+
+.f_inline_r{
+  float:right;
+  margin:5px;
+}
+
+
+/* Id */
+
+#content{}
+
+#footer{
+  font-size: 8px;
+}
+
+#header{
+  height: 50px;
+  width: 100%;
+  background-image: url("img/banner.jpg");
+}
+
+#menu{
+  height: 30px;
+  width: 100%;
+  border: 1px solid black;
+}
+
+#title{
+  position: relative left;
+}
+
+#user{
+  position: relative right;
+}
